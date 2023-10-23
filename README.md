@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prachi Pal</h1> <h3 align="center">A passionate Full Stack Developer</h3> <br>
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 - 👨‍💻 All of my projects are available at - **https://prachipalportfolio.vercel.app/** <br>
 - 📫 How to reach me - **prachipal205@gmail.com** <br>
 - ⚡ Fun fact - **I'm enthusiastic about web development, and you'll often find me writing code in languages like JavaScript, HTML, and CSS. I enjoy building responsive and user-friendly websites, and I'm always eager to learn new front-end and back-end technologies.**<br>
