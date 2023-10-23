@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prachi Pal</h1> <h3 align="center">A passionate Full Stack Developer</h3>
-<img align ="right" height="150" src"https://i.imgflip.com/65efzo.gif"/>
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 <br>
 
 - 👨‍💻 All of my projects are available at - **https://prachipalportfolio.vercel.app/** <br>
