@@ -1,48 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <style>
-        body {
-            background-color: #f2f2f2;
-            font-family: Arial, sans-serif;
-        }
-        .container {
-            max-width: 600px;
-            margin: 0 auto;
-            padding: 20px;
-            background-color: #fff;
-            border-radius: 5px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        h1 {
-            text-align: center;
-        }
-        h3 {
-            text-align: center;
-        }
-        .contact-info {
-            text-align: center;
-        }
-        .contact-info a {
-            text-decoration: none;
-            margin: 0 10px;
-        }
-        .fun-fact {
-            text-align: center;
-            font-style: italic;
-            margin-top: 20px;
-        }
-        .languages-tools {
-            margin-top: 20px;
-        }
-        .support {
-            text-align: center;
-            margin-top: 20px;
-        }
-    </style>
-</head>
-<body>
-  <h1 align="center">Hi 👋, I'm Prachi Pal</h1>
+<h1 align="center">Hi 👋, I'm Prachi Pal</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://prachipalportfolio.vercel.app/](https://prachipalportfolio.vercel.app/)
@@ -64,7 +20,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/prachipal19"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="prachipal19" /></a></p><br><br>
 
-</body>
-</html>
 
 
